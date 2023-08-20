@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Sean and I am learning to code!
+
+I'm currently working on creating an AI assistant using python.
+
 <!--
 **PurpleNurps/PurpleNurps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
