@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-My name is Sean and I am learning to code!
+My name is Sean and I am training with School of Code to be a full stack developer.
 
-I'm currently working on creating an AI assistant using python.
+So far, we've learnt how to work Agile, computational thinking, how to give and receive feedback in a respectful and constructive manner, the difference between a growth mindset and a fixed mindset and this is all before going anywhere near any code!
+
+As far as the code is concerned, we've learnt the fundamentals of html, CSS and JavaScript. We then moved on to NodeJS and learnt how to build REST APIs, then SQL to build the database, then onto to testing - starting with unit testing using vitest and supertest, then moving on to end to end testing using playwright.
+
+I am loving it! 
 
 <!--
 **PurpleNurps/PurpleNurps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
