@@ -1,0 +1,19 @@
+{
+  "name": "purplenurps",
+  "version": "1.0.0",
+  "description": "My name is Sean and I am training with School of Code to be a full stack developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurpleNurps/PurpleNurps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurpleNurps/PurpleNurps/issues"
+  },
+  "homepage": "https://github.com/PurpleNurps/PurpleNurps#readme"
+}
