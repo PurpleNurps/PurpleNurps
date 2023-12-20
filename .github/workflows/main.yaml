@@ -29,8 +29,8 @@ jobs:
         run: node index.js
       - name: Commit and Push new README.md to the repository
         run: |
-        #   git config --global user.name 'PurpleNurps'
-        #   git config --global user.email 'seanlunt1991@gmail.com'
+          git config --global user.name 'PurpleNurps'
+          git config --global user.email 'seanlunt1991@gmail.com'
           git add README.md
           git commit -m "Update README.md"
           git push
