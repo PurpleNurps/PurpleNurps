@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PurpleNurps/PurpleNurps/issues"
   },
-  "homepage": "https://github.com/PurpleNurps/PurpleNurps#readme"
+  "homepage": "https://github.com/PurpleNurps/PurpleNurps#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
 }
