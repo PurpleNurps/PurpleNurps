@@ -27,10 +27,11 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
-      - name: Commit and Push new README.md to the repository
+      - name: Pull, Commit and Push new README.md to the repository
         run: |
           git config --global user.name 'PurpleNurps'
           git config --global user.email 'seanlunt1991@gmail.com'
+          git pull
           git add README.md
           git commit -m "Update README.md"
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/PurpleNurps/PurpleNurps.git main
