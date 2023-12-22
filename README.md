@@ -1,1 +1,1 @@
-My name is Sean and today is Wednesday, 20 December at 22:56 GMT.
+My name is Sean Lunt and today is Friday, 22 December, 10:53 GMT.
