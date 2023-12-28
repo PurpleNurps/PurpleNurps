@@ -1,1 +1,4 @@
-My name is Sean Lunt and today is Thursday, 28 December at 12:09 GMT.
+<div align="center">
+<h1>Happy Thursday!</h1>
+<img src="./assets/intro.gif" width="60%"/>
+</div>

@@ -27,7 +27,7 @@ function generateReadMe() {
       
       let lines = readmeData.split(os.EOL);
       if (lines.length >= 1) {
-        lines[0] = Mustache.render(mustacheData.toString(), DATA);
+        lines[1] = Mustache.render(mustacheData.toString(), DATA);
         const output = lines.join(os.EOL);
         fs.writeFileSync('README.md', output);
       } else {
