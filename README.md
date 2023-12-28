@@ -1,1 +1,3 @@
-My name is Sean Lunt and today is Friday, 22 December at 11:12 GMT.
+Happy Thursday!
+
+some other stuff

@@ -1,8 +1,9 @@
 {
   "name": "purplenurps",
   "version": "1.0.0",
-  "description": "My name is Sean and I am training with School of Code to be a full stack developer.",
+  "description": "My name is Sean and I am a full stack developer.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "test"
   },
