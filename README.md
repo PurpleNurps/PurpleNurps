@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Happy Saturday!</h1>
-<img src="./assets/intro.gif" width="60%"/>
+<img src="./assets/intro.gif"/>
 </div>
 <br/>
 <div align="center">
