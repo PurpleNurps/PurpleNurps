@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Happy Saturday!</h1>
+<h1>Happy Sunday!</h1>
 <!-- particles intro gif -->
 <img src="./assets/intro.gif"/>
 </div>
