@@ -91,7 +91,21 @@
 <!-- contribution snake grid -->
 
 <a href="https://github.com/Platane/snk">
-<img src="https://github.com/PurpleNurps/snake/raw/manual-run-output/docker/github-contribution-grid-snake-dark.svg" width="100%">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/PurpleNurps/snake/raw/manual-run-output/docker/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/PurpleNurps/snake/raw/manual-run-output/docker/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/PurpleNurps/snake/raw/manual-run-output/docker/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 </a>
 
 <p align="center"><em>Click the grid ⬆️ to generate your own contribution grid snake gif</em></p>
