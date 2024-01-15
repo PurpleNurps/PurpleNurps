@@ -94,7 +94,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/PurpleNurps/snake/raw/manual-run-output/docker/github-contribution-grid-snake-dark.gif"
+    srcset="https://github.com/PurpleNurps/snake/raw/manual-run-output/docker/github-contribution-grid-snake-blue.gif"
   />
   <source
     media="(prefers-color-scheme: light)"
