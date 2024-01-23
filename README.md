@@ -94,15 +94,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/PurpleNurps/snake/raw/manual-run-output/docker/github-contribution-grid-snake-blue.gif"
+    srcset="https://raw.githubusercontent.com/PurpleNurps/snake/manual-run-output/docker/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/PurpleNurps/snake/raw/manual-run-output/docker/github-contribution-grid-snake.gif"
+    srcset="https://raw.githubusercontent.com/PurpleNurps/snake/manual-run-output/docker/github-contribution-grid-snake.gif"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://github.com/PurpleNurps/snake/raw/manual-run-output/docker/github-contribution-grid-snake.gif"
+    src="https://raw.githubusercontent.com/PurpleNurps/snake/manual-run-output/docker/github-contribution-grid-snake.gif"
     width="100%"
   />
 </picture>
