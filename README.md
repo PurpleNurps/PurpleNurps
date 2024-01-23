@@ -98,11 +98,11 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/PurpleNurps/snake/manual-run-output/docker/github-contribution-grid-snake.gif"
+    srcset="https://raw.githubusercontent.com/PurpleNurps/snake/manual-run-output/docker/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/PurpleNurps/snake/manual-run-output/docker/github-contribution-grid-snake.gif"
+    src="https://raw.githubusercontent.com/PurpleNurps/snake/manual-run-output/docker/github-contribution-grid-snake.svg"
     width="100%"
   />
 </picture>
