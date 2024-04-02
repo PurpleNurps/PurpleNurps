@@ -9,7 +9,7 @@
 <h2>A Bit About Me</h2>
 <br>
 </div>
-<p>I'm Sean and I am incredibly excited about embarking on this journey of tech discovery. I am a graduate of The School of Code bootcamp (cohort 15) where I was given just a taste of the magical world that envelops software development. I am looking to broaden my knowledge and understanding of both front and back end. At the beginning of the bootcamp, I thought I would enjoy front end more because of my creative interests but I found myself enjoying back end more because of the definitive feedback that it either works or it doesn't. After taking some time to hone my CSS skills, I have come to the conclusion that I am a fan of both ends and that I am in fact full stack. I find AI fascinating and would love to work in the development of it in the future. Recently, I have been playing around with the Openai API to create a recipe bot. </p>
+<p>I'm Sean and I am incredibly excited about embarking on this journey of tech discovery. I am a graduate of The School of Code bootcamp (cohort 15) where I was given just a taste of the magical world that envelops software development. I am looking to broaden my knowledge and understanding of both front and back end. I find AI fascinating and would love to work in the development of it in the future. Recently, I have been playing around with the Openai API to create a recipe bot. </p>
 <br>
 <ul>
 <li>🌱 I’m currently learning Python & AWS</li>
