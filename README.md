@@ -102,7 +102,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/PurpleNurps/snake/manual-run-output/docker/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/PurpleNurps/snake/manual-run-output/docker/github-contribution-grid-snake-dark.svg"
     width="100%"
   />
 </picture>
