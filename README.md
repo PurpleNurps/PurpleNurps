@@ -88,7 +88,7 @@
 </a>
 </div>
 
-<!-- contribution snake grid -->
+<!-- contribution snake grid. -->
 
 <a href="https://github.com/Platane/snk">
 <picture>
