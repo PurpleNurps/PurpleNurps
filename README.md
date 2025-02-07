@@ -6,7 +6,7 @@
 
 <!-- intro -->
 <div align="center">
-<h2>A Bit About Me</h2>
+<h2>About</h2>
 <br>
 </div>
 <ul>
