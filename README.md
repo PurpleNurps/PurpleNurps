@@ -10,8 +10,8 @@
 <br>
 </div>
 <ul>
-<li>🌱 I’m currently learning C#</li>
-<li>👯 I’m looking to collaborate on Any kind of React based project</li>
+<li>🌱 I’m currently learning C and Java</li>
+<li>💻 Studying CS at Bangor Uni</li>
 <li>📫 How to reach me: seanlunt1991@gmail.com</li>
 <li>⚡ Fun fact: I'm working towards becoming a licensed skydiver</li>
 </ul>
