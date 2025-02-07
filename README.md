@@ -9,8 +9,6 @@
 <h2>A Bit About Me</h2>
 <br>
 </div>
-<p>I'm Sean and I am incredibly excited about embarking on this journey of tech discovery. I am a graduate of The School of Code bootcamp (cohort 15) where I was given just a taste of the magical world that envelops software development. I am looking to broaden my knowledge and understanding of both front and back end. I find AI fascinating and would love to work in the development of it in the future. Recently, I have been playing around with the Openai API to create a recipe bot. </p>
-<br>
 <ul>
 <li>🌱 I’m currently learning C#</li>
 <li>👯 I’m looking to collaborate on Any kind of React based project</li>
