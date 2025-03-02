@@ -11,7 +11,7 @@
 </div>
 <ul>
 <li>🌱 I’m currently learning C and Java</li>
-<li>💻 Studying CS at Bangor Uni</li>
+<li>💻 Studying CS in Bangor</li>
 <li>📫 How to reach me: seanlunt1991@gmail.com</li>
 <li>⚡ Fun fact: I'm working towards becoming a licensed skydiver</li>
 </ul>
